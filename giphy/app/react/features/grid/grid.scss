@@ -1,0 +1,11 @@
+.grid {
+    &__loaded__images {
+        flex-wrap: wrap;
+        display: flex;
+        flex-basis: 19%;
+        justify-content: space-between;
+    }
+    img {
+        margin-bottom: 5px;
+    }
+}
